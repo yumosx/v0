@@ -1,0 +1,2 @@
+A planing agent that allows the agent to create and manage plan for solving complex tasks
+The provides functionality for creating plans, updating plan steps, and tracking progress.

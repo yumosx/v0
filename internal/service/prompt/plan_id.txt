@@ -1,0 +1,2 @@
+Unique identifier for the plan. Required for create, update, set_active, and delete commands.
+Optional for get and mark_step (uses active plan if not specified).
