@@ -7,7 +7,7 @@ type Session struct {
 }
 
 func NewSession() *Session {
-	return &Session{}
+	return &Session{messages: make([]deepseek.ChatCompletionMessage, 0, 10)}
 }
 
 func (session *Session) AppendMsg(msg deepseek.ChatCompletionMessage) {

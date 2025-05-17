@@ -4,7 +4,7 @@ type Parameters struct {
 	Params map[string]*Value
 }
 
-func newParams() *Parameters {
+func NewParams() *Parameters {
 	return &Parameters{Params: make(map[string]*Value)}
 }
 

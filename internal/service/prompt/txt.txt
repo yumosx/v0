@@ -1,0 +1,9 @@
+Question text to present to user
+- should be specific and clearly indicate what information you need.
+
+Include:
+1) Clear question or request,
+2) Context about why the input is needed,
+3) Available options if applicable,
+4) Impact of different choices,
+5) Any relevant constraints or considerations.

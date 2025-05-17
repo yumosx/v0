@@ -10,6 +10,7 @@ type Msg struct {
 	Role      string
 	Content   string
 	Id        string
+	Name      string
 	ToolCalls []LLMToolCall
 }
 
